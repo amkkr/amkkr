@@ -49,20 +49,20 @@
 
 
 ## ⚡ Status<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=amanokokoro&label=Profile%20views&color=0e75b6&style=flat" alt="amanokokoro" />
+  <img src="https://komarev.com/ghpvc/?username=o-gane&label=Profile%20views&color=0e75b6&style=flat" alt="o-gane" />
 </p>
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=amanokokoro" alt="amanokokoro" />
+    <img src="https://github-profile-trophy.vercel.app/?username=o-gane" alt="o-gane" />
   </a>
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanokokoro&show_icons=true&locale=en&layout=compact" alt="amanokokoro" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=o-gane&show_icons=true&locale=en&layout=compact" alt="o-gane" />
 </p>
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amanokokoro&show_icons=true&locale=en" alt="amanokokoro" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=o-gane&show_icons=true&locale=en" alt="o-gane" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanokokoro&" alt="amanokokoro" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=o-gane&" alt="o-gane" />
 </p>
