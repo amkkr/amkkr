@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 
 
-## 🌱 Learning
+##  Learning
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank">
@@ -48,7 +48,7 @@
 </p>
 
 
-## ⚡ Status<p align="left">
+##  Status<p align="left">
   <img src="https://komarev.com/ghpvc/?username=amkkr&label=Profile%20views&color=0e75b6&style=flat" alt="amkkr" />
 </p>
 <p align="left">
