@@ -1,7 +1,8 @@
-## Hello 
+# Hello 
 yakurat ・ tenshin's readme
+<p><img src="https://komarev.com/ghpvc/?user_name=amkkr&color=lightgrey&style=flat-square" alt="ghpvc"/></p>
 
-### Learning
+## Learning
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank">
@@ -36,7 +37,7 @@ yakurat ・ tenshin's readme
   </a>
 </p>
 
-### Status
+## Status
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=amkkr" alt="amkkr" />
