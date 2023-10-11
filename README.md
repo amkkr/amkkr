@@ -1,5 +1,5 @@
 ### Hi there 
-yakurat or tenshin's readme
+yakurat ・ tenshin's readme
 
 ##  Learning
 <h3 align="left">Languages and Tools:</h3>
@@ -25,8 +25,11 @@ yakurat or tenshin's readme
   <a href="https://expressjs.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
   </a>
-  <a href="https://vuejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" />
+  <a href="https://ja.legacy.reactjs.org/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="40" height="40" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img href="https://github.com/amkkr/amkkr/assets/55781271/98ca4c47-06c8-4117-b0d1-99f5a8479777" alt="nextjs" width="40" height="40" />
   </a>
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
