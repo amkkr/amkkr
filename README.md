@@ -41,6 +41,7 @@ yakurat ・ tenshin's readme
 
 
 ##  Status<p align="left">
+<p>
   <img src="https://komarev.com/ghpvc/?username=amkkr&label=Profile%20views&color=0e75b6&style=flat" alt="amkkr" />
 </p>
 <p align="left">
