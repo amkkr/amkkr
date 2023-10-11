@@ -38,9 +38,6 @@ yakurat ・ tenshin's readme
 
 
 ##  Status<p align="left">
-
-![](https://hit.yhype.me/github/profile?user_name=amkkr&color=lightgrey&style=flat-square)
-
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=amkkr" alt="amkkr" />
