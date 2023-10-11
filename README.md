@@ -1,6 +1,8 @@
 # Hello 
 yakurat ・ tenshin's readme
-<p><img src="https://komarev.com/ghpvc/?user_name=amkkr&color=lightgrey&style=flat-square" alt="ghpvc"/></p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=amkkr&color=lightgrey&style=flat-square" alt="ghpvc"/>
+</p>
 
 ## Learning
 <h3 align="left">Languages and Tools:</h3>
