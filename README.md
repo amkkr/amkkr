@@ -1,7 +1,7 @@
-### Hi there 
+## Hello 
 yakurat ・ tenshin's readme
 
-##  Learning
+### Learning
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank">
@@ -36,8 +36,7 @@ yakurat ・ tenshin's readme
   </a>
 </p>
 
-
-##  Status<p align="left">
+### Status
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=amkkr" alt="amkkr" />
