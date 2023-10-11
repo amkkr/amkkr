@@ -28,9 +28,6 @@ yakurat ・ tenshin's readme
   <a href="https://ja.legacy.reactjs.org/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="40" height="40" />
   </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img href="https://github.com/amkkr/amkkr/assets/55781271/98ca4c47-06c8-4117-b0d1-99f5a8479777" alt="nextjs" width="40" height="40" />
-  </a>
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
   </a>
@@ -41,9 +38,9 @@ yakurat ・ tenshin's readme
 
 
 ##  Status<p align="left">
-<p>
-  <img src="https://komarev.com/ghpvc/?username=amkkr&label=Profile%20views&color=0e75b6&style=flat" alt="amkkr" />
-</p>
+
+![](https://hit.yhype.me/github/profile?user_name=amkkr&color=lightgrey&style=flat-square)
+
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=amkkr" alt="amkkr" />
