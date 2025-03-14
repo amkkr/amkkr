@@ -1,5 +1,5 @@
 # Hello 
-yakurat ・ tenshin's readme
+amkkr's readme
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=amkkr&color=lightgrey&style=flat-square" alt="ghpvc"/>
 </p>
