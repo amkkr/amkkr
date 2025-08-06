@@ -5,7 +5,7 @@ amkkr's readme
 </p>
 
 ## Learning
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools:
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
@@ -35,7 +35,7 @@ amkkr's readme
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
   </a>
   <a href="https://www.php.net" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-line-wordmark.svg" alt="laravel" width="40" height="40" />
   </a>
 </p>
 
