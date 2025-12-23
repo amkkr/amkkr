@@ -50,8 +50,6 @@ amkkr's readme
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=amkkr&show_icons=true&locale=en" alt="amkkr" />
 </p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amkkr&" alt="amkkr" />
-</p>
+
 
 
