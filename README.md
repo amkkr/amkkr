@@ -1,11 +1,14 @@
 # Hello 
+
 amkkr's readme
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=amkkr&color=lightgrey&style=flat-square" alt="ghpvc"/>
 </p>
 
 ## Learning
+
 ### Languages and Tools:
+
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
@@ -40,11 +43,6 @@ amkkr's readme
 </p>
 
 ## Status
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=amkkr" alt="amkkr" />
-  </a>
-</p>
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amkkr&show_icons=true&locale=en&layout=compact" alt="amkkr" />
