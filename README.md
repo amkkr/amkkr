@@ -45,11 +45,8 @@ amkkr's readme
 ## Status
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amkkr&show_icons=true&locale=en&layout=compact" alt="amkkr" />
+  <img align="left" src="https://github-readme-stats-delta-indol-50.vercel.app/api/top-langs?username=amkkr&show_icons=true&theme=gruvbox" alt="amkkr" />
 </p>
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amkkr&show_icons=true&locale=en" alt="amkkr" />
+<p>
+  <img align="left" src="https://github-readme-stats-delta-indol-50.vercel.app/api?username=amkkr&show_icons=true&theme=gruvbox" alt="amkkr" />
 </p>
-
-
-
