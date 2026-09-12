@@ -41,12 +41,3 @@ amkkr's readme
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-line-wordmark.svg" alt="laravel" width="40" height="40" />
   </a>
 </p>
-
-## Status
-
-<p>
-  <img align="left" src="https://github-readme-stats-delta-indol-50.vercel.app/api/top-langs?username=amkkr&show_icons=true&theme=gruvbox" alt="amkkr" />
-</p>
-<p>
-  <img align="left" src="https://github-readme-stats-delta-indol-50.vercel.app/api?username=amkkr&show_icons=true&theme=gruvbox" alt="amkkr" />
-</p>
