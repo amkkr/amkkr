@@ -41,3 +41,6 @@ amkkr's readme
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-line-wordmark.svg" alt="laravel" width="40" height="40" />
   </a>
 </p>
+
+## stats
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=amkkr&theme=gruvbox)](https://github.com/stats-organization/github-stats-extended)
